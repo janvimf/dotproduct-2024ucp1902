@@ -9,5 +9,5 @@ result = [v1[i] + v2[i] for i in range(len(v1))]
 
 print("Vector 1:", v1)
 print("Vector 2:", v2)
-print("Sum:", result)
+print("janvis sum:", result)
 
